@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="first | H8314">
+<parameter name="udid" value="BH90018AAX"/>
+        <classes>
+            <class name="firstTest"/>
+        </classes>
+    </test>
+<test name="first | H3213">
+<parameter name="udid" value="CQ300002LG"/>
+        <classes>
+            <class name="firstTest"/>
+        </classes>
+    </test>
+</suite>
